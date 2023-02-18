@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Forget Password</string>
+    <string name="help">Help</string>
+    <string name="back">Back</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back_text">Back</string>
+    <string name="reset_password_text">Enter the email associated with your account and we\'ll send an email with instructions to reser your password.</string>
+    <string name="email_address_text">Email address</string>
+    <string name="send_instructions">Send Instructions</string>
+    <string name="email">email</string>
+    <string name="create_new_password">Create new password</string>
+    <string name="new_pass_notice">Your new password must be different from previous used passwords.</string>
+    <string name="open_email_app">Open Email App</string>
+    <string name="skip_i_ll_confirm_letter">Skip, I\'ll Confirm letter</string>
+    <string name="checkmail_notice">We have sent a password recover instuctions to your email.</string>
+    <string name="check_your_mail_title">Check your mail</string>
+    <string name="todo">TODO</string>
+</resources>
